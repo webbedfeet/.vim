@@ -62,7 +62,6 @@
 :NERDTreeToggle	NERD_tree.txt	/*:NERDTreeToggle*
 :RBuildTags	r-plugin.txt	/*:RBuildTags*
 :RUpdateObjList	r-plugin.txt	/*:RUpdateObjList*
-:RUpdateObjListAll	r-plugin.txt	/*:RUpdateObjListAll*
 :SetIfUnset	HTML.txt	/*:SetIfUnset*
 :TlistAddFiles	taglist.txt	/*:TlistAddFiles*
 :TlistAddFilesRecursive	taglist.txt	/*:TlistAddFilesRecursive*
@@ -700,7 +699,7 @@ i_&'	HTML.txt	/*i_&'*
 i_&+-	HTML.txt	/*i_&+-*
 i_&--	HTML.txt	/*i_&--*
 i_&.	HTML.txt	/*i_&.*
-i_&/	HTML.txt	/*i_&\/*
+i_&/	HTML.txt	/*i_&/*
 i_&12	HTML.txt	/*i_&12*
 i_&13	HTML.txt	/*i_&13*
 i_&14	HTML.txt	/*i_&14*
@@ -758,7 +757,7 @@ i_&Mu	HTML.txt	/*i_&Mu*
 i_&Nu	HTML.txt	/*i_&Nu*
 i_&N~	HTML.txt	/*i_&N~*
 i_&O'	HTML.txt	/*i_&O'*
-i_&O/	HTML.txt	/*i_&O\/*
+i_&O/	HTML.txt	/*i_&O/*
 i_&O^	HTML.txt	/*i_&O^*
 i_&O`	HTML.txt	/*i_&O`*
 i_&Oc	HTML.txt	/*i_&Oc*
@@ -838,7 +837,7 @@ i_&n-	HTML.txt	/*i_&n-*
 i_&nu	HTML.txt	/*i_&nu*
 i_&n~	HTML.txt	/*i_&n~*
 i_&o'	HTML.txt	/*i_&o'*
-i_&o/	HTML.txt	/*i_&o\/*
+i_&o/	HTML.txt	/*i_&o/*
 i_&o^	HTML.txt	/*i_&o^*
 i_&o`	HTML.txt	/*i_&o`*
 i_&oc	HTML.txt	/*i_&oc*
@@ -897,7 +896,7 @@ i_&ze	HTML.txt	/*i_&ze*
 i_3-	HTML.txt	/*i_3-*
 i_;#	HTML.txt	/*i_;#*
 i_;&	HTML.txt	/*i_;&*
-i_;/p	HTML.txt	/*i_;\/p*
+i_;/p	HTML.txt	/*i_;/p*
 i_;4	HTML.txt	/*i_;4*
 i_;;	HTML.txt	/*i_;;*
 i_;<Tab>	HTML.txt	/*i_;<Tab>*
@@ -1891,9 +1890,11 @@ vimrplugin_buildwait	r-plugin.txt	/*vimrplugin_buildwait*
 vimrplugin_by_vim_instance	r-plugin.txt	/*vimrplugin_by_vim_instance*
 vimrplugin_ca_ck	r-plugin.txt	/*vimrplugin_ca_ck*
 vimrplugin_editor_w	r-plugin.txt	/*vimrplugin_editor_w*
+vimrplugin_external_ob	r-plugin.txt	/*vimrplugin_external_ob*
 vimrplugin_help_w	r-plugin.txt	/*vimrplugin_help_w*
 vimrplugin_i386	r-plugin.txt	/*vimrplugin_i386*
 vimrplugin_indent_commented	r-plugin.txt	/*vimrplugin_indent_commented*
+vimrplugin_knitargs	r-plugin.txt	/*vimrplugin_knitargs*
 vimrplugin_latexcmd	r-plugin.txt	/*vimrplugin_latexcmd*
 vimrplugin_listmethods	r-plugin.txt	/*vimrplugin_listmethods*
 vimrplugin_map_r	r-plugin.txt	/*vimrplugin_map_r*
