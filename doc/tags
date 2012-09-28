@@ -699,7 +699,7 @@ i_&'	HTML.txt	/*i_&'*
 i_&+-	HTML.txt	/*i_&+-*
 i_&--	HTML.txt	/*i_&--*
 i_&.	HTML.txt	/*i_&.*
-i_&/	HTML.txt	/*i_&/*
+i_&/	HTML.txt	/*i_&\/*
 i_&12	HTML.txt	/*i_&12*
 i_&13	HTML.txt	/*i_&13*
 i_&14	HTML.txt	/*i_&14*
@@ -757,7 +757,7 @@ i_&Mu	HTML.txt	/*i_&Mu*
 i_&Nu	HTML.txt	/*i_&Nu*
 i_&N~	HTML.txt	/*i_&N~*
 i_&O'	HTML.txt	/*i_&O'*
-i_&O/	HTML.txt	/*i_&O/*
+i_&O/	HTML.txt	/*i_&O\/*
 i_&O^	HTML.txt	/*i_&O^*
 i_&O`	HTML.txt	/*i_&O`*
 i_&Oc	HTML.txt	/*i_&Oc*
@@ -837,7 +837,7 @@ i_&n-	HTML.txt	/*i_&n-*
 i_&nu	HTML.txt	/*i_&nu*
 i_&n~	HTML.txt	/*i_&n~*
 i_&o'	HTML.txt	/*i_&o'*
-i_&o/	HTML.txt	/*i_&o/*
+i_&o/	HTML.txt	/*i_&o\/*
 i_&o^	HTML.txt	/*i_&o^*
 i_&o`	HTML.txt	/*i_&o`*
 i_&oc	HTML.txt	/*i_&oc*
@@ -896,7 +896,7 @@ i_&ze	HTML.txt	/*i_&ze*
 i_3-	HTML.txt	/*i_3-*
 i_;#	HTML.txt	/*i_;#*
 i_;&	HTML.txt	/*i_;&*
-i_;/p	HTML.txt	/*i_;/p*
+i_;/p	HTML.txt	/*i_;\/p*
 i_;4	HTML.txt	/*i_;4*
 i_;;	HTML.txt	/*i_;;*
 i_;<Tab>	HTML.txt	/*i_;<Tab>*
